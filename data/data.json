@@ -251,6 +251,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T10:34:15.474Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770201501278-fcdzyh6sc",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-04T10:38:21.278Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
