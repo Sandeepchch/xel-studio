@@ -145,6 +145,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T07:49:23.680Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770191389395-h5k7owp6u",
+      "action": "add",
+      "details": "Added article: {\"title\":\"Hfg\",\"content\":\"Htyuu\"}",
+      "timestamp": "2026-02-04T07:49:49.395Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
