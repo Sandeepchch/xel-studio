@@ -383,6 +383,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T12:25:46.804Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770207960194-2qltf2k5n",
+      "action": "add",
+      "details": "Added article: {\"title\":\"Bbcb\",\"content\":\"Hghjjj\"}",
+      "timestamp": "2026-02-04T12:26:00.194Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
