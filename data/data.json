@@ -181,6 +181,13 @@
       "details": "Invalid password attempt (4 remaining)",
       "timestamp": "2026-02-04T07:57:48.609Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770191870811-d8rvm0m5h",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-04T07:57:50.811Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
