@@ -153,6 +153,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T07:54:52.773Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770191698124-0ccxab3q9",
+      "action": "delete",
+      "details": "Deleted article 1770191388843-tnl33pu2f",
+      "timestamp": "2026-02-04T07:54:58.124Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
