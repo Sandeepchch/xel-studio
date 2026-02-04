@@ -83,6 +83,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T07:22:12.790Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770189884690-f7ekn34k5",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-04T07:24:44.690Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
