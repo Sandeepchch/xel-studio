@@ -97,6 +97,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T07:36:46.252Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770190614000-dlxeeodqz",
+      "action": "login_failed",
+      "details": "Invalid password attempt (4 remaining)",
+      "timestamp": "2026-02-04T07:36:54.000Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
