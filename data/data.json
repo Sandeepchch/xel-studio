@@ -286,6 +286,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T11:19:22.530Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770203968195-hbfiitpdy",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-04T11:19:28.195Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
