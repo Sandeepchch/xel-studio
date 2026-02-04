@@ -398,6 +398,20 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T12:48:09.262Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770209296476-y9yz38d8h",
+      "action": "delete",
+      "details": "Deleted article 1770207959818-xtilt5zgp",
+      "timestamp": "2026-02-04T12:48:16.476Z",
+      "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770209310022-7j022agju",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-04T12:48:30.022Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
