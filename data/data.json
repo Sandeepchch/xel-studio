@@ -265,6 +265,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-04T10:46:30.151Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770202937699-i8jk9ya28",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-04T11:02:17.699Z",
+      "ip": "103.88.219.64"
     }
   ]
 }
