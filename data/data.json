@@ -482,6 +482,13 @@
       "details": "Added article: {\"image\":\"https://i.ibb.co/hFdXCW3Y/1770500220415.png\",\"content\":\"These are advanced AI models from ",
       "timestamp": "2026-02-07T21:41:36.314Z",
       "ip": "103.88.219.85"
+    },
+    {
+      "id": "1770502074697-n92dzax1t",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-07T22:07:54.697Z",
+      "ip": "103.88.219.85"
     }
   ]
 }
