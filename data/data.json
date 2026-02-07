@@ -440,6 +440,13 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-07T20:27:47.374Z",
       "ip": "103.88.219.85"
+    },
+    {
+      "id": "1770496084530-5a9yqkzcr",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-07T20:28:04.530Z",
+      "ip": "103.88.219.85"
     }
   ]
 }
