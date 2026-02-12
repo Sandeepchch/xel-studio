@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "diufurgiuyijghjfghkgjhlgkhtijyhkgldgjgf",
+      "content": "tthptrgjhlkhkfgmlglbmb,flrlmpokbmflhnm   5oyi o5oi oi6i9ijb  9iy i 506ikh pyjhn 05uu   0 i50  04t -4t jw-j   i  - yo 05hyi5r0  t0i 05o5  05yii 40 5ytohj ty o yrotirtj yir bo44ti  otor  ori0trijhjpoijrtyj oiyo tyopo to  toi  ortfdjsxcnmvdpljf diodpm eoi6jujml  oynvpqvniri i34tiijh",
+      "id": "1770493681446-ck136vj90",
+      "date": "2026-02-07T19:48:01.446Z"
+    },
+    {
       "title": "Google Antigravity – Free Limited Time? What is Google Antigravity?",
       "image": "https://i.ibb.co/BVG7nYKB/1769717558524.png",
       "content": "Google Antigravity can be understood clearly through these three core aspects:\n\n1. AI-driven coding environment: It goes beyond being a traditional code editor. Instead of only providing inline suggestions, it integrates advanced AI models to actively assist with development tasks.\n\n\n2. Agent-based workflow design: Antigravity is designed around agent-based workflows where AI can plan tasks, execute them, verify results, and iterate automatically, making it suitable for complex development work.\n\n\n3. Built for real applications: It is more suitable for building real features, automation pipelines, and production-ready applications rather than quick edits or small experiments.\n\n\n\nWhen Google Antigravity first launched, I tried it around December, roughly 5 days after release. At that time, the experience felt decent but not particularly special. It worked fine, but it didn’t clearly stand out compared to other AI-assisted coding tools. Most workflows relied mainly on Gemini 3 Pro, which was available for free, but for more complex problems, the results felt limited. Things changed noticeably after Anthropic’s Claude Opus 4.5 and GPT-5 were added, alongside Gemini 3 Pro which continues to be freely available. One useful aspect is that you can choose any one of these three models depending on your task, whether you need stronger reasoning, better code generation, or more structured planning. Opus 4.5 is widely regarded as one of the best coding and reasoning models in the world, and having it available for free is extremely rare. This upgrade clearly improved code quality, long-context reasoning, and multi-step problem solving, while GPT-5 further strengthened planning and execution.\n\nCompared to tools like Cursor and Windsurf, Antigravity feels less like an AI-assisted editor and more like an agent-driven workspace. Cursor excels at fast inline suggestions, and Windsurf focuses on guided coding flows, whereas Antigravity emphasizes task ownership by agents—where a task is planned, executed, verified, and iterated as a complete workflow. This approach works especially well for larger features, automation workflows, and real application development. Another strong aspect is real-time browser verification, where Antigravity can open a browser, test its own output, and confirm whether something actually works, automatically fixing issues when needed and reducing manual testing.\n\nUsing Google Antigravity, I added search functionality in our Rising Telegram bot to provide real-time information, Please note our Telegram bot is offline for 3 days right now. I'll re-host it in 3 to 4 days And at the same time I enhanced my agentic workflows, making them more efficient, structured, and effective. For new users who are unsure how to install or get started, I’ve added a YouTube link that explains the download and setup process step by step, making it easier to begin without confusion.\n\nOverall, Google Antigravity doesn’t feel like a traditional code editor. It feels more like a working AI development system—one that became genuinely powerful only after the right models were added.\n\nYouTube link https://youtu.be/8hydTA2j6ng?si=BraDeFLNQcJBxkaZ",
@@ -419,6 +425,20 @@
       "details": "Admin logged in",
       "timestamp": "2026-02-05T13:32:37.018Z",
       "ip": "103.88.219.64"
+    },
+    {
+      "id": "1770493601890-cg2mflgnj",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-07T19:46:41.890Z",
+      "ip": "::1"
+    },
+    {
+      "id": "1770493681446-uraqc9b83",
+      "action": "add",
+      "details": "Added article: {\"title\":\"diufurgiuyijghjfghkgjhlgkhtijyhkgldgjgf\",\"content\":\"tthptrgjhlkhkfgmlglbmb,flrlmpokbmflhnm",
+      "timestamp": "2026-02-07T19:48:01.446Z",
+      "ip": "::1"
     }
   ]
 }
