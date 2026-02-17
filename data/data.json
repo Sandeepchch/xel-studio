@@ -607,6 +607,13 @@
       "details": "Added article: {\"title\":\"Ggghh\",\"content\":\"Ggfhhh\"}",
       "timestamp": "2026-02-16T22:00:41.063Z",
       "ip": "103.88.219.11"
+    },
+    {
+      "id": "1771292554868-lqxq0nvvm",
+      "action": "login_success",
+      "details": "Admin logged in",
+      "timestamp": "2026-02-17T01:42:34.868Z",
+      "ip": "103.88.219.11"
     }
   ]
 }
